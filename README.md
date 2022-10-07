@@ -1,4 +1,4 @@
-# Multi_Asset_Strategy
+# Multi-Asset Strategy
 
 In this project I will explore several multi-asset strategies.
 
